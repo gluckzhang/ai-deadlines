@@ -3,7 +3,7 @@ email: longz@kth.se
 description: Countdowns to top software engineering conference deadlines
 author: Abhishek Das
 
-# domain: ""
+domain: "http://deadlines.gluckzhang.com"
 baseurl: ""
 
 github_username: gluckzhang
