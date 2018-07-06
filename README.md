@@ -1,6 +1,6 @@
-## AI Deadlines
+## SE Deadlines
 
-Countdown timers to keep track of a bunch of CV/NLP/ML/AI conference deadlines.
+Countdown timers to keep track of a bunch of software engineering conference deadlines.
 
 ## Adding/updating a conference
 
@@ -9,16 +9,13 @@ Countdown timers to keep track of a bunch of CV/NLP/ML/AI conference deadlines.
 - Make sure it has the `name`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place` attributes
 - Send a pull request
 
-## Forks
+## Forked From
 
-- [geodeadlin.es][3] by @LukasMosser
-- [neuro-deadlines][4] by @tbryn
+- [AI Deadlines][2] by @abhshkdz
 
 ## License
 
 [MIT][1]
 
 [1]: https://abhshkdz.mit-license.org/
-[2]: http://aideadlin.es/
-[3]: http://geodeadlin.es/
-[4]: https://github.com/tbryn/neuro-deadlines
+[2]: https://github.com/abhshkdz/ai-deadlines/
