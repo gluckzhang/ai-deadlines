@@ -6,7 +6,7 @@
   id: icse19
   link: https://2019.icse-conferences.org/home
   deadline: "2018-08-24 23:59:59"
-  timezone: AoE
+  timezone: UTC-12
   date: May 25-31, 2019
   place: Montréal, QC, Canada
   sub: SE
@@ -16,7 +16,7 @@
   id: icst19
   link: http://icst2019.xjtu.edu.cn/
   deadline: "2018-10-12 23:59:59"
-  timezone: AoE
+  timezone: UTC-12
   date: April 22-26, 2019
   place: Waikoloa Village, Hawaii
   sub: SE
@@ -26,7 +26,7 @@
   id: saner19
   link: https://saner2019.github.io/
   deadline: "2018-10-19 23:59:59"
-  timezone: AoE
+  timezone: UTC-12
   date: February 24-27, 2019
   place: Zhejiang University in Hangzhou, China
   sub: SE
@@ -36,7 +36,7 @@
   id: pldi19
   link: https://conf.researchr.org/home/pldi-2019
   deadline: "2018-11-16 23:59:59"
-  timezone: AoE
+  timezone: UTC-12
   date: June 1-30, June
   place: Arizona, United States
   sub: SE
@@ -46,7 +46,7 @@
   id: dsn19
   link: http://www.dsn.org/
   deadline: "2018-12-07 23:59:59"
-  timezone: AoE
+  timezone: UTC-12
   date: June 24-27, 2019
   place: Portland
   sub: SE
@@ -76,7 +76,7 @@
   id: icsme19
   link: https://waset.org/conference/2019/01/rome/ICSME
   deadline: "2018-07-20 23:59:59"
-  timezone: AoE
+  timezone: UTC-12
   date: January 17-18, 2019
   place: Rome, Italy
   sub: SE
@@ -116,7 +116,7 @@
   id: asplos19
   link: https://asplos-conference.org/
   deadline: "2018-08-07 23:59:59"
-  timezone: AoE
+  timezone: UTC-12
   date: April 13-17, 2019
   place: Providence, RI, USA
   sub: SE
