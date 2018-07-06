@@ -142,6 +142,8 @@ with open('sorted_data.yml', 'r') as stream:
         print("\n\n")
         clean_conf = []
         for q in conf:
+            if (q['deadline'].lower() in tba_words):
+                continue
             dates,year=q["date"].split(",")
             try:
                 start_date = dates.strip().split(" ")[0].strip()+" "+dates.split("-")[1].strip()+" "+year.strip()
