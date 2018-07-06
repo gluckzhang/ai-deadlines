@@ -23,100 +23,100 @@
 
 - name: SANER
   year: 2019
-  id: accv18
-  link: http://accv2018.net/
-  deadline: "2018-07-05 23:59:59"
-  timezone: America/Los_Angeles
-  date: December 2-6, 2018
-  place: Perth, Western Australia
+  id: saner19
+  link: https://saner2019.github.io/
+  deadline: "2018-10-19 23:59:59"
+  timezone: AoE
+  date: February 24-27, 2019
+  place: Zhejiang University in Hangzhou, China
   sub: SE
 
 - name: PLDI
   year: 2019
-  id: aaai19
-  link: https://aaai.org/Conferences/AAAI-19/
-  deadline: "2018-09-05 23:59:59"
-  timezone: Etc/GMT+10
-  date: January 27 - February 1, 2019
-  place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
+  id: pldi19
+  link: https://conf.researchr.org/home/pldi-2019
+  deadline: "2018-11-16 23:59:59"
+  timezone: AoE
+  date: June 1-30, June
+  place: Arizona, United States
   sub: SE
 
 - name: DSN
   year: 2019
-  id: icra2019
-  link: https://icra2019.org//
-  deadline: "2018-09-15 23:59:59"
-  timezone: Etc/GMT
-  date: May 20-24, 2019
-  place: Montreal, Canada
+  id: dsn19
+  link: http://www.dsn.org/
+  deadline: "2018-12-07 23:59:59"
+  timezone: AoE
+  date: June 24-27, 2019
+  place: Portland
   sub: SE
 
-- name: ISSTA
-  year: 2019
-  id: icassp2019
-  link: http://icassp2019.com/
-  deadline: "2018-10-29 23:59:59"
-  timezone: Etc/GMT
-  date: May 12-17, 2019
-  place: Brighton, UK
-  sub: SE
+# - name: ISSTA
+#   year: 2019
+#   id: issta19
+#   link: 
+#   deadline: 
+#   timezone: 
+#   date: 
+#   place: 
+#   sub: SE
 
 - name: FSE
   year: 2019
-  id: iclr18
-  link: http://iclr.cc/
-  deadline: "2017-10-27 17:00:00"
-  timezone: America/Los_Angeles
-  date: April 30-May 3, 2018
-  place: Vancouver Convention Center, Vancouver, Canada
+  id: fse19
+  link: https://fse.iacr.org/2019/
+  deadline: "2018-11-23 23:59:59"
+  timezone: UTC
+  date: March 25-28, 2019
+  place: Paris, France
   sub: SE
 
 - name: ICSME
   year: 2019
-  id: aamas18
-  link: http://celweb.vuse.vanderbilt.edu/aamas18
-  deadline: "2017-11-14 23:59:00"
-  timezone: Etc/GMT+12
-  date: July 11-13, 2018
-  place: Stockholm, Sweden
+  id: icsme19
+  link: https://waset.org/conference/2019/01/rome/ICSME
+  deadline: "2018-07-20 23:59:59"
+  timezone: AoE
+  date: January 17-18, 2019
+  place: Rome, Italy
   sub: SE
 
-- name: ASE
-  year: 2019
-  id: cvpr18
-  link: http://cvpr2018.thecvf.com/
-  deadline: "2017-11-15 23:59:59"
-  timezone: America/Los_Angeles
-  date: June 18-23, 2018
-  place: Salt Lake City, Utah
-  sub: SE
+# - name: ASE
+#   year: 2019
+#   id: ase19
+#   link: 
+#   deadline: 
+#   timezone: 
+#   date: 
+#   place: 
+#   sub: SE
 
-- name: ISSRE
-  year: 2019
-  id: naacl18
-  link: http://naacl2018.org/
-  deadline: "2017-12-15 23:59:59"
-  timezone: Etc/GMT+12
-  date: June 2-4, 2018
-  place: New Orleans, USA
-  sub: SE
+# - name: ISSRE
+#   year: 2019
+#   id: issre19
+#   link: 
+#   deadline: 
+#   timezone: 
+#   date: 
+#   place: 
+#   sub: SE
 
-- name: SCAM
-  year: 2019
-  id: siggraph18
-  link: http://s2018.siggraph.org/
-  deadline: "2018-01-23 21:59:59"
-  timezone: GMT
-  date: August 12-16, 2018
-  place: Vancouver, Canada
-  sub: SE
+# - name: SCAM
+#   year: 2019
+#   id: scam19
+#   link: 
+#   deadline: 
+#   timezone: 
+#   date: 
+#   place: 
+#   sub: SE
 
 - name: ASPLOS
   year: 2019
-  id: ijcai18
-  link: https://www.ijcai-18.org/
-  deadline: "2018-01-31 23:59:59"
-  timezone: Etc/GMT+12
-  date: July 13-19, 2018
-  place: Stockholm, Sweden
+  id: asplos19
+  link: https://asplos-conference.org/
+  deadline: "2018-08-07 23:59:59"
+  timezone: AoE
+  date: April 13-17, 2019
+  place: Providence, RI, USA
   sub: SE
