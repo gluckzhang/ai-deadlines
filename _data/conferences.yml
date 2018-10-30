@@ -51,16 +51,6 @@
   place: Zhejiang University in Hangzhou, China
   sub: SE
 
-- name: PLDI
-  year: 2019
-  id: pldi19
-  link: https://conf.researchr.org/home/pldi-2019
-  deadline: "2018-11-26 23:59:59"
-  timezone: Etc/UTC-12
-  date: June 22-28, 2019
-  place: Phoenix, Arizona, United States
-  sub: SE
-
 - name: FSE
   year: 2019
   id: fse19
@@ -69,6 +59,16 @@
   timezone: UTC
   date: March 25-28, 2019
   place: Paris, France
+  sub: SE
+
+- name: PLDI
+  year: 2019
+  id: pldi19
+  link: https://conf.researchr.org/home/pldi-2019
+  deadline: "2018-11-26 23:59:59"
+  timezone: Etc/UTC-12
+  date: June 22-28, 2019
+  place: Phoenix, Arizona, United States
   sub: SE
 
 - name: DSN
